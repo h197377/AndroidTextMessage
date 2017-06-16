@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">textMessage</string>
+    <string name="text_message">Let\'s break up! :(</string>
+    <string name="break_up">Press to break up</string>
+</resources>
